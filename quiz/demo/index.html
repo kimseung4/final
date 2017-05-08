@@ -1,0 +1,74 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Typeface Classification Quiz</title>
+  <meta name="description" content="jQuery plugin allowing a creating of fill in the blank quiz">
+  <meta name="keywords" content="jquery plugin, fill in the blank, javascript, jquery, fill, blank" />
+
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="../css/quizyfillblank.css">
+
+  <style>
+  body{
+    font-family:Helvetica, Arial, Verdana;
+    background-color: rgba(239, 64, 101, 0.35);
+    color: white;
+  }
+
+  .text-style1{
+    font-family: Helvetica, Arial, Verdana;
+    font-size:16px;
+    margin-top:20px;
+    text-align:center;
+    line-height:24px;
+  }
+
+  .text-style2{
+    font-style:italic;
+    color:#777;
+  }
+
+  .text-style3{
+    width:200px;
+    margin:auto;
+    font-family: Helvetica, Arial, Verdana;
+  }
+  </style>
+
+</head>
+<body>
+
+  <h1>Typeface Classification Quiz</h1>
+
+  <div id="main" role="main">
+
+    <div id="tutorial-fillblank">
+      <div class="text-style2">Drag the items to the correct blank spaces<br>(the correct answers will appear once you drag the last item)</div>
+      <div id="fillblank-text" class='text-style1'></div><br><br>
+      <div id="fillblank-ph" class='text-style3'></div>
+    </div>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="../js/jquery-1.7.1.min.js"><\/script>')</script>
+  <script src="../js/jquery-ui-1.8.17.custom.min.js"></script>
+
+  <script src="../js/jquery.quizyfillblank.min.js"></script>
+
+  <script>
+    $('#tutorial-fillblank').quizyFillBlank({
+          textItems:['The typeface that has the serifs that are completely rounded to correspond to the logic of the stroke contrast and the circular structure of the curved letters is', '. The term that describes faces that evolved out of oldstyle types but show a marked change in their structure is', '. These typefaces that are an outgrowth of “display types” of the nineteenth century are called', '. A small line attached to the end of a stroke in a letter or symbol is called', '.'],
+          anItems:['Old Style', 'Transitional', 'Modern', 'Slab Serif', 'Sans Serif', 'Typeface', 'Serif' ],
+          anItemsCorrect:[2,1,4,6],
+          blockSize:150
+        });
+  </script>
+
+  <script>
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>

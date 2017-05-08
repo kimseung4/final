@@ -1,0 +1,208 @@
+.LogIn {
+  background-color: rgb(255, 244, 101);
+  padding-top: 30px;
+  padding-right: 20px;
+  padding-bottom: 80px;
+  padding-left: 20px;
+}
+
+.Main img {
+  width: 100%;
+}
+
+.Icons {
+  padding-top: 40px;
+  padding-right: 280px;
+  padding-bottom: 40px;
+  padding-left: 280px;
+  background-color: white;
+}
+
+.Icons img {
+  padding: 30px;
+}
+
+.About {
+  padding: 60px;
+  position: absolute;
+}
+
+.About p {
+  font-size: 14px;
+}
+
+.Letterform {
+  background-color: rgba(144, 191, 220, 0.6);
+}
+
+.Letterform img {
+  width: 100%;
+}
+
+.ClassificationBackground {
+  position: relative;
+}
+.ClassificationBackground img {
+  position: absolute;
+  width: 100%;
+}
+
+.LetterformBackground {
+  position: relative;
+}
+
+.LetterformBackground img {
+  position: absolute;
+  width: 100%;
+}
+
+.AlphabetBackground {
+  position: relative;
+}
+
+.AlphabetBackground img {
+  position: absolute;
+  width: 100%;
+}
+
+.Arrow img {
+  padding-top: 700px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 1250px;
+}
+
+.ArrowRight {
+  position: absolute;
+}
+
+.ArrowRight img {
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 1250px;
+}
+
+.About h1 {
+  color: rgba(144, 191, 220, 0.6);
+}
+
+.Classification {
+  padding: 60px;
+  position: absolute;
+}
+
+.Classification p {
+  font-size: 14px;
+}
+
+.Classification h1 {
+  color: rgba(239, 64, 101, 0.35);
+}
+
+.Variations {
+  padding: 60px;
+  position: absolute;
+}
+
+.Variations p {
+  font-size: 14px;
+}
+
+.Variations h1 {
+  color: rgb(203, 137, 187);
+}
+
+.Case {
+  background-color: rgba(203, 137, 187, .6)
+}
+
+.Typeface {
+  background-color: rgba(239, 64, 101, 0.35);
+}
+
+.Typeface img {
+  width: 100%;
+}
+
+.PreQuiz {
+  background-color: white;
+  padding-top: 40px;
+  padding-right: 100px;
+  padding-bottom: 40px;
+  padding-left: 350px;
+}
+
+.PreQuizButton {
+  padding-top: 10px;
+  padding-right: 280px;
+  padding-bottom: 200px;
+  padding-left: 550px;
+  background-color: white;
+}
+
+#quiz {
+    text-indent: 10px;
+    display:none;
+}
+
+.button {
+    width: 40px;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    float:right;
+    background-color: white;
+    color: rgba(144, 191, 220, 0.6);
+    margin: 0 2px 0 2px;
+}
+
+.button.active {
+    background-color: #F8F8FF;
+    color: #525252;
+}
+
+button {
+    position: relative;
+    float:right;
+    padding: 20px;
+}
+
+.button a {
+    text-decoration: none;
+    color: black;
+}
+
+#container {
+    width:75%;
+    margin:auto;
+    padding: 50px 25px 40px 10px;
+    font-weight: bold;
+    background-color: rgba(144, 191, 220, 0.6);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#prev {
+    display:none;
+}
+
+#start {
+    display:none;
+    width: 90px;
+}
+
+.Homepage {
+  padding: 20px;
+}
+.Homepage img {
+  padding-top: 0px;
+  padding-right: 400px;
+  padding-bottom: 0px;
+  padding-left: 570px;
+
+}
