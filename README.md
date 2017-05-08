@@ -21,15 +21,10 @@ User 3 is an art teacher at a middle school. She is planning to teach her class 
 <h1>Structure</h1>
 <p>The quizzes that I provide to the users are multiple-choice based and fill in the blanks. There are a lot of terms that are introduced in this website. I thought that those two quizzes were suitable for the learning objectives that I am pursuing. 
 <h1>Skeleton</h1>
-
-
-
-
-
-
-
-
-
+![screen shot 2017-05-08 at 11 02 37 am](https://cloud.githubusercontent.com/assets/25942653/25824145/484658e0-340c-11e7-9f0c-22108096cb38.png)
+![screen shot 2017-05-08 at 11 03 33 am](https://cloud.githubusercontent.com/assets/25942653/25824142/4843f80c-340c-11e7-955b-b18ad10672f2.png)
+![screen shot 2017-05-08 at 11 03 54 am](https://cloud.githubusercontent.com/assets/25942653/25824144/484452c0-340c-11e7-9cb9-5b8f034355ba.png)
+![screen shot 2017-05-08 at 11 05 29 am](https://cloud.githubusercontent.com/assets/25942653/25824143/48445572-340c-11e7-84ff-b827e143fcc8.png)
 
 <h1>Reflection</h1>
 <p>I learned that organization is the key when creating a website that requires many pages. I developed a lot of pages for this website and learned that organizing my thoughts on design and user experience was very important. Especially when it came to creating the stylesheet for my html, it was good to organize how I want the website to look like beforehand or else I would have been very confused and the website wouldn’t look like what I wanted it to be. For example, I learned that it’s best to keep the design of the website consistent in order for the codings to be simple and easy to follow. Otherwise, the website will be all mixed up and it will be difficult for me to edit the websites in the future. I also thought that planning for a website was important as well. It’s good to lay out what I want to include in the content before coding. It will save me from running into coding troubles. Overall, I learned that organization and planning are very important when coding websites.</p>
