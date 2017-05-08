@@ -1,4 +1,4 @@
-<h1>Topic<h1/>
+<h1>Topic</h1>
 <p>Type Fun-Damental is a digital learning platform where the users can learn the fundamentals of typography that can help them to grasp basic understandings of graphic design.</p>
 <h1>Problem</h1>
 <p>Based on my personal experience as a graphic design student, I noticed that there weren’t enough materials that teach about typography and graphic design for middle and high school students. When I was studying graphic design during undergraduate studies, I wished that I had some basic understandings of typography and noticed that there weren’t materials that were friendly for middle and high school students. I decided to came up with a digital platform, called Type Fun-Damental, that are approachable and user friendly; and provide the preliminaries of typography and graphic design.</p>
